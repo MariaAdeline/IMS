@@ -1,2 +1,2 @@
 # IMS
-This is a Inventory Management System for Super Market where I have created two options one is for customer who purchases the products and another for seller where the products are added to the inventory so that customers can buy the products.
+This is a Inventory Management System for Super Market where I have created two options one is for customer who purchases the products and another for seller where the products are added to the inventory so that customers can buy the products.And I have stored the products in Json File.And have also created a separate JSON File for sales which will show the products along with their details that are sold.
