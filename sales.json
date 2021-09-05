@@ -1,6 +1,0 @@
-Product_Id      Items          Qty        MRP       Amount    Category    Expiry_date   Date & Time_of_purchase
-1001             Milk           3          60         54       Dairy       20/7/2020     Sun Sep  5 16:40:30 2021
-1003             Eggs           1          10         8        Dairy       4/6/2021      Sun Sep  5 16:40:34 2021
-1018            Water           2          40         30       Drinks      18/5/2021     Sun Sep  5 16:41:21 2021
-1014             Coke           2         140        130       Drinks      11/1/2021     Sun Sep  5 16:41:25 2021
-1019            Fanta           1          60         58       Drinks     10/11/2021     Sun Sep  5 16:41:30 2021
