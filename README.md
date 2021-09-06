@@ -41,5 +41,5 @@ There are currently 39 products available in the inventory(record.json).
 ### About Me
 My name is Maria Adeline P and I'm a 3rd year B.E CSE student studing in SRM Easwari Engineering College,Chennai,TamilNadu 600125. I'm passionate about Data related fields like Data Analytics and also interested in python language.I am willing to learn, work and gain some experience in this field.
 
-### Useful Links
+### Useful Link
 LinkedIn : https://www.linkedin.com/in/maria-adeline-8024301b1/
